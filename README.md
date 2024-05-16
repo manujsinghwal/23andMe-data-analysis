@@ -1,5 +1,7 @@
 # 23andMe Data Analysis
-
+\
+![image](https://github.com/manujsinghwal/23andMe-data-analysis/assets/40256851/1e03cb3b-3532-4524-8f2d-35c5a09232c0)
+\
 **Assignment:**
 \
 Please answer the questions below based on the data provided:
